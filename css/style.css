@@ -432,6 +432,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-bottom: 20px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  border-width: 3px;
 }
 #fh5co-counter .event-wrap p, #fh5co-counter .event-wrap span,
 #fh5co-event .event-wrap p,
@@ -1332,8 +1333,8 @@ form label {
   height: 150px;
 }
 .couple-half .groom img, .couple-half .bride img {
-  width: 150px;
-  height: 150px;
+  width: 145px;
+  height: 135px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
