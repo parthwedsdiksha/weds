@@ -88,6 +88,11 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
 }
 
+.ordinal {
+  vertical-align:super;
+  font-size: 13px;
+}
+
 .fh5co-nav {
   position: absolute;
   top: 0;
@@ -1333,8 +1338,8 @@ form label {
   height: 150px;
 }
 .couple-half .groom img, .couple-half .bride img {
-  width: 145px;
-  height: 135px;
+  width: 150px;
+  height: 150px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1444,7 +1449,7 @@ form label {
   }
 }
 .fh5co-heading p {
-  font-size: 18px;
+  font-size: 16.1px;
   line-height: 1.5;
   color: #828282;
 }
