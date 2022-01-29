@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
-  background-position: 10%, center;
+  background-position: 15%, center;
 }
 .fh5co-cover .overlay {
   z-index: 0;
@@ -1029,7 +1029,7 @@ form label {
   }
 
   .fh5co-cover {
-    background-position: 23%, center;
+    background-position: 28%, center;
   }
 
   .fh5co-cover .display-t, .fh5co-cover .display-tc {
@@ -1202,7 +1202,7 @@ form label {
   }
 
   .fh5co-cover {
-    background-position: -355px, center;
+    background-position: 32%, center;
     height: 600px;
   }
 
@@ -1326,7 +1326,8 @@ form label {
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
   color: #F14E95;
-  font-size: 30px;
+  font-size: 40px;
+  margin: 0;
 }
 .couple-half .groom, .couple-half .bride {
   float: left;
